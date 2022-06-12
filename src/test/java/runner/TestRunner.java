@@ -10,7 +10,7 @@ import io.cucumber.junit.CucumberOptions;
 glue = { "stepDefinations" }, 
 monochrome = true,
 plugin = { "pretty", "html:target/cucumberReports","json:target/cucumber.json" },
-tags = "@LoginUser")
+tags = "@LoginUser or @RegisterUser")
 public class TestRunner {
 
 }

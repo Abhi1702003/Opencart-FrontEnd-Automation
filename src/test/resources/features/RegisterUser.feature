@@ -18,4 +18,4 @@ And we click the continue button
 Examples:
 
 |LandingPageTitle|RegisterPageTitle|FirstName|LastName|EMail|Password|AccountPageTitle|
-|Your Store|Register Account|Amit|Kumar|amitkumar123@gmail.com|po121231|My Account|
+|Your Store|Register Account|Rohit|Raj|rohittaj456@gmail.com|pqw21231|My Account|
